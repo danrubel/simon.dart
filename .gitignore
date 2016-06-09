@@ -1,0 +1,6 @@
+.atom
+*.bin
+*.elf
+*.snapshot
+*.snapshot.info.json
+
